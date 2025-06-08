@@ -1,1 +1,1 @@
-# Python_from_basics_to_DSA_to_AI-ML
+# Python from basics to DSA to AI-ML
