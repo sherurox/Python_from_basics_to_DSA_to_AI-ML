@@ -1,1 +1,1 @@
-# Python_from_Scratch_to_MachineLearning_including_DSA
+# Python_from_basics_to_DSA_to_AI-ML
