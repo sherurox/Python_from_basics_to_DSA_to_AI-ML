@@ -8,6 +8,6 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 3_Pointers<br><br> 
 4_LinkedLists<br>
     4.1_List_vs_LinkedList<br>
-    4.2_Actions_on_List_vs_LinkedList<br>
+    4.2_Actions_on_List_vs_LinkedList<br><br> 
 5_Double_LinkedList<br><br> 
 6_Stack_and_queues<br><br> 
