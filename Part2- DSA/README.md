@@ -12,3 +12,4 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 5_Double_LinkedList<br><br> 
 6_Stack_and_queues<br><br> 
 7_Tree<br><br> 
+8_HashTables<br><br> 
