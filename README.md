@@ -6,5 +6,6 @@ Part 1 - All Basics <br>
 
 Part 2 - DSA <br> 
 
-Part3- Data Science and Visualisation <br> 
+Part 3 - Data Science and Visualisation <br> 
 
+Part 4 - Machine Learning  <br> 
