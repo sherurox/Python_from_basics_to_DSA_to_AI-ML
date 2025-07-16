@@ -10,7 +10,9 @@ The Machine Learning Process:
     1.5 Splitting the dataset into the Training and Test set<br> 
     1.6 Feature Scaling<br> <br> 
 
-2. Modelling <br> 
+2. Modelling <br>
+2_Simple_Linear_Regression <br> 
+<br> 
 3. Evaluation <br> 
 <br> 
 1_Preprocessing<br> 
