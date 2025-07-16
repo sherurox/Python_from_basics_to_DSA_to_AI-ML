@@ -13,3 +13,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 6_Stack_and_queues<br><br> 
 7_Tree<br><br> 
 8_HashTables<br><br> 
+9_Graphs<br><br> 
+10_Heaps<br><br>
