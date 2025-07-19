@@ -3,3 +3,4 @@ Welcome to my zero to hero repo part 4 where I have covered all concepts from sc
 1_Preprocessing<br> 
 2_Simple_Linear_Regression<br>
 3_Multiple_Linear_Regression<br>
+4_Polynomail_Linear_Regression<br>
