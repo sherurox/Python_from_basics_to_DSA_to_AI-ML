@@ -16,3 +16,9 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 9_Graphs<br><br> 
 10_Heaps<br><br>
 11_Recursion<br><br>
+12_Recursive_Binary_Search_Trees<br><br>
+13_Tree_Traversal<br><br>
+14_Basic_Sorts<br><br>
+15_Merge_Sort<br><br>
+16_Quick_Sort<br><br>
+17_Dynamic_Programming<br><br>
