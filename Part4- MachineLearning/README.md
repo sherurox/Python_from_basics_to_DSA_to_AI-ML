@@ -1,7 +1,47 @@
 Welcome to my zero to hero repo part 4 where I have covered all concepts from scratch to advanced level for Machine Learning, follow the below order:
 <br><br>
-1_Preprocessing<br> 
-2_Simple_Linear_Regression<br>
-3_Multiple_Linear_Regression<br>
-4_Polynomail_Linear_Regression<br>
-5_Support_Vector_Regression<br>
+1_Preprocessing<br>
+<br>
+2_Regression<br>
+    2.1_Simple_Linear_Regression<br>
+    2.2_Multiple_Linear_Regression<br>
+    2.3_Polynomail_Linear_Regression<br>
+    2.4_Support_Vector_Regression<br>
+    2.5_Decision_Tree_Regression   <br>
+    2.6_Random_Forest_Classification<br>
+<br>
+3_Classification<br>
+    3.1_Logistic_Regression<br>
+    3.2_K-NearestNeighbour(KNN)<br>
+    3.3_Support_Vector_Machine<br>
+    3.4_Kernel_SVM<br>
+    3.5_Naive_Bayes<br>
+    3.6_Decision_Tree_Classification<br>
+    3.7_Random_Forest_Classification<br>
+
+4_Clustering<br>
+    4.1_K-Means_Clustering<br>
+    4.2_Hierarchical_Clustering<br>
+<br>
+5_Associatioin_Rule_Learning<br>
+    5.1_Apriori<br>
+    5.2_Eclat<br>
+<br>
+6_Reinforcement_Learning<br>
+    6.1_Upper_Confidence_Bound(UCB)<br>
+    6.2_Thompson_Sampling<br>
+<br>
+7_Natural_Language_Processing<br>
+<br>
+8_Deep_Learning<br>
+    8.1_Artificial_Neural_Networks(ANN)<br>
+    8.2_Convolutional_Neural_Networks(CNN)<br>
+    <br>
+9_Dimensionality_Reduction<br>
+    9.1_Principle_Component_Analysis(PCA)<br>
+    9.2_Linear_Discriminant_Analysis(LDA)<br>
+    9.3_Kernel_PCA<br>
+<br>
+10_Model_Selection_and_Boosting<br>
+    10.1_Model_Selection<br>
+    10.2_XGBoost<br>
